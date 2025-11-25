@@ -1,0 +1,16 @@
+Train Passenger Survival Analysis Insights
+
+1) Gender-Based Survival Insight
+Female passengers had a significantly higher survival rate than male passengers. This suggests that women were given higher priority during the evacuation process.
+
+2) Passenger Class Impact
+Passengers belonging to first and second class had better survival chances compared to those in third class. This shows that socio-economic status played a strong role in survival outcomes.
+
+3) Age-Based Survival Pattern
+The average age of the passengers is around 29.7 years. Younger passengers, especially children, show a slightly higher chance of survival compared to older passengers.
+
+4) Overall Survival Count
+Survival numbers are much lower compared to the total number of passengers. This indicates that the accident had a high fatality rate overall.
+
+Conclusion:
+Survival was influenced by gender, passenger class, and age. Females and higher-class passengers had the highest survival rate.
